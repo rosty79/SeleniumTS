@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/test/java/SeleniumKurs/pages/SeleniumKursLoginPage.java=UTF-8
+encoding//src/test/java/SeleniumKurs/tests/TestLoginSeleniumChrome.java=UTF-8
+encoding//src/test/java/SeleniumKurs/tests/TestLoginSeleniumIE.java=UTF-8
+encoding//src/test/java/SeleniumKurs/tests/TestLoginSeleniumfirefox.java=UTF-8
